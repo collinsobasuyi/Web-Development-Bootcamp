@@ -1,20 +1,23 @@
 # Web-Development-Bootcamp
 
-<!-- VSCode Extensions -->
+VSCode Extensions
+=======
 
-<!-- Recommended -->
-# esbenp.prettier-vscode
-# formulahendry.auto-close-tag
-hex-ci.stylelint-plus
-dbaeumer.vscode-eslint
-naumovs.color-highlight
-DigitalBrainstem.javascript-ejs-support
+Recommended
+=======
+
+<p>esbenp.prettier-vscode</p>
+<p>formulahendry.auto-close-tag</p>
+<p>hex-ci.stylelint-plus</p>
+<p>dbaeumer.vscode-eslint</p>
+<p>naumovs.color-highlight</p>
+<p>DigitalBrainstem.javascript-ejs-support</p>
 
 <!-- Optional -->
-ritwickdey.LiveServer
-erikphansen.vscode-toggle-column-selection
-file-icons
+<p>ritwickdey.LiveServer</p>
+<p>erikphansen.vscode-toggle-column-selection</p>
+f<p>ile-icons</p>
 
-DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start:
+<p>DevDocs combines multiple API documentations in a fast, organized, and searchable interface. Here's what you should know before you start:</p>
 https://devdocs.io/settings
 
