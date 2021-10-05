@@ -1,0 +1,23 @@
+body {
+    background-color:#D4ECDD;
+}
+h1 {
+    color: #345B63;
+    font-size: 100px;
+}
+
+img:hover {
+    background-color: red;
+}
+
+.food{
+    background-color: rgb(82, 142, 197);
+}
+
+.monkey{
+    background-color: rgb(158, 106, 106); 
+}
+
+#heading {
+    color: blue;
+}
